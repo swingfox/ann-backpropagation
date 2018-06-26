@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Collection>
+  <Card>
+    <Name>Bicycle Arcane Edition</Name>
+    <FileName>rsz_bicycle_arcane.jpg</FileName>
+    <Output>0000</Output>
+  </Card>
+  <Card>
+    <Name>Bicycle Black Tiger</Name>
+    <FileName>rsz_bicycle_black_tiger.jpg</FileName>
+    <Output>0001</Output>
+  </Card>
+  <Card>
+    <Name>Tally Ho Viper Edition</Name>
+    <FileName>rsz_tally_ho_viper_edition.jpg</FileName>
+    <Output>0010</Output>
+  </Card>
+  <Card>
+    <Name>Virtuoso SS16 Yellow Edition</Name>
+    <FileName>rsz_virtuoso_ss16_yellow_edition.jpg</FileName>
+    <Output>0011</Output>
+  </Card>
+  <Card>
+  <Name>Tally Ho Red Circle Back</Name>
+    <FileName>rsz_tally_ho_red_circle_back.jpg</FileName>
+    <Output>0100</Output>
+    </Card>
+  <Card>
+    <Name>Tally Ho Blue Fan Back</Name>
+    <FileName>rsz_tally_ho_blue_fan_back.jpg</FileName>
+    <Output>0101</Output>
+  </Card>
+  <Card>
+    <Name>Smoke and Mirrors</Name>
+    <FileName>rsz_smoke_and_mirrors.jpg</FileName>
+    <Output>0110</Output>
+  </Card>
+  <Card>
+    <Name>Bicycle Shadow Masters Edition</Name>
+    <FileName>rsz_bicycle_shadow_masters_edition.jpg</FileName>
+    <Output>0111</Output>
+  </Card>
+  <Card>
+    <Name>Bicycle Red Rider Back</Name>
+    <FileName>rsz_bicycle_red_rider_back.jpg</FileName>
+    <Output>1000</Output>
+  </Card>
+  <Card>
+    <Name>Bicycle Blue Rider Back</Name>
+    <FileName>rsz_bicycle_blue_rider_back.jpg</FileName>
+    <Output>1001</Output>
+  </Card>
+  <Card>
+    <Name>Bicycle Black Ghost Edition</Name>
+    <FileName>rsz_bicycle_black_ghost_edition.jpg</FileName>
+    <Output>1010</Output>
+  </Card>
+</Collection>
